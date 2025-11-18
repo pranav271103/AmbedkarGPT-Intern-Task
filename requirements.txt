@@ -29,8 +29,8 @@ python-dotenv==1.2.1
 # Evaluation
 rouge-score==0.1.2
 nltk==3.9.2
-scikit-learn==1.4.1.post1
-scipy==1.13.1
+scikit-learn
+scipy
 
 # Development
 tqdm==4.67.1
