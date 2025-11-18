@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/assets/logo.png" alt="AmbedkarGPT Logo" width="200"/>
+  <img src="https://github.com/pranav271103/AmbedkarGPT-Intern-Task/blob/main/docs/assets/logo.png" alt="AmbedkarGPT Logo" width="200"/>
   
   # AmbedkarGPT
   
