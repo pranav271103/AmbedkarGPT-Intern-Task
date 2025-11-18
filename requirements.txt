@@ -1,0 +1,60 @@
+# AmbedkarGPT: RAG System for Dr. Ambedkar's Works
+# Python 3.8+ required
+# Core LangChain & RAG Framework
+# Core Dependencies
+langchain==1.0.7
+langchain-community==0.4.1
+langchain-core==1.0.5
+langchain-text-splitters==1.0.0
+langchain-ollama==1.0.0
+langchain-classic==1.0.0
+
+# Vector Database
+chromadb==0.4.24
+chroma-hnswlib==0.7.3
+
+# Embeddings
+sentence-transformers==5.1.2
+torch==2.9.1
+transformers==4.57.1
+
+# LLM
+ollama==0.6.1
+
+# Data Processing
+numpy==1.26.4
+pandas==2.3.3
+python-dotenv==1.2.1
+
+# Evaluation
+rouge-score==0.1.2
+nltk==3.9.2
+scikit-learn==1.7.2
+scipy==1.16.3
+
+# Development
+tqdm==4.67.1
+black==24.0.0
+isort==5.13.2
+flake8==7.1.1
+mypy==1.9.0
+pytest==8.2.1
+pytest-cov==5.0.0
+pytest-mock==3.14.0
+
+# Web Framework (for API if needed)
+fastapi==0.121.2
+uvicorn==0.38.0
+
+# Utils
+orjson==3.11.4
+typing-extensions==4.15.0
+
+# Progress bars and utilities
+
+# Prerequisites (install separately):
+# Python: https://www.python.org/downloads/
+# Ollama: https://ollama.ai
+# Then run: ollama pull mistral
+# Optional: GPU support
+#torch>=2.1.0 (uncomment if you have CUDA-capable GPU)
