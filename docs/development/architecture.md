@@ -2,25 +2,6 @@
 
 This document provides an overview of AmbedkarGPT's architecture and design principles.
 
-## High-Level Architecture
-
-```mermaid
-graph TD
-    A[User Query] --> B[Query Processing]
-    B --> C[Vector Search]
-    C --> D[Context Retrieval]
-    D --> E[Prompt Construction]
-    E --> F[LLM Generation]
-    F --> G[Response]
-    
-    H[Document Corpus] --> I[Document Loader]
-    I --> J[Text Splitter]
-    J --> K[Embedding Model]
-    K --> L[Vector Store]
-    
-    C --> L
-```
-
 ## Core Components
 
 ### 1. Document Processing Pipeline

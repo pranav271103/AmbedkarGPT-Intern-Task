@@ -8,11 +8,11 @@ AmbedkarGPT is a powerful, privacy-focused Question Answering system that brings
 
 ## Key Features
 
-- **🔒 100% Private** - All processing happens on your machine
-- **📚 Context-Aware Answers** - Grounded in Dr. Ambedkar's actual writings
-- **⚡ Fast & Efficient** - Optimized for local CPU/GPU usage
-- **📊 Comprehensive Evaluation** - Built-in framework with 9+ metrics
-- **🔧 Extensible** - Easy to customize and extend
+- **100% Private** - All processing happens on your machine
+- **Context-Aware Answers** - Grounded in Dr. Ambedkar's actual writings
+- **Fast & Efficient** - Optimized for local CPU/GPU usage
+- **Comprehensive Evaluation** - Built-in framework with 9+ metrics
+- **Extensible** - Easy to customize and extend
 
 ## Quick Start
 

@@ -206,7 +206,7 @@ python main.py
 You'll see:
 ```
 ==================================================================
-  🚀 Building AmbedkarGPT RAG Pipeline
+    Building AmbedkarGPT RAG Pipeline
 ==================================================================
 
 [Step 1] Loading document
@@ -217,7 +217,7 @@ You'll see:
 
 Once ready, ask questions:
 ```
-💬 AmbedkarGPT Ready for Questions
+   AmbedkarGPT Ready for Questions
 Type 'exit' to quit.
 
 Q: What is your ideal society?

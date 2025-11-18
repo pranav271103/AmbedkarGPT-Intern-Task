@@ -12,7 +12,7 @@ This guide explains how to effectively use the AmbedkarGPT chat interface.
 2. You'll see the welcome message and system status:
    ```
    ======================================
-   🤖 AmbedkarGPT - Ask about Dr. Ambedkar's Works
+      AmbedkarGPT - Ask about Dr. Ambedkar's Works
    ======================================
    
    [System] Initializing pipeline...
