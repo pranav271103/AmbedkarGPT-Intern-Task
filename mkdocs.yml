@@ -13,7 +13,7 @@ theme:
     - navigation.sections
     - navigation.indexes
     - navigation.top
-  logo: assets/Logo.png
+  logo: assets/RepoLogo.png
   favicon: assets/favicon.ico
 
 markdown_extensions:
