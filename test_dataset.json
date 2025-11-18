@@ -1,0 +1,230 @@
+{
+  "test_questions": [
+    {
+      "id": 1,
+      "question": "What is the real remedy for the caste system according to the speech?",
+      "ground_truth": "The real remedy is to destroy the belief in the sanctity of the shastras and overthrowing the authority of the scriptures.",
+      "source_documents": [
+        "speech1.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 2,
+      "question": "What was Ambedkar's ideal society based on?",
+      "ground_truth": "His ideal society would be based on liberty, equality, and fraternity.",
+      "source_documents": [
+        "speech1.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 3,
+      "question": "What did Buddha teach according to the text?",
+      "ground_truth": "Buddha taught against ritualism and emphasized the law of Karma, stating that every man has power to shape his own destiny.",
+      "source_documents": [
+        "speech2.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 4,
+      "question": "What fundamental rights does the constitution need to protect?",
+      "ground_truth": "Right to equality, right to freedom, right against exploitation, and right to constitutional remedies.",
+      "source_documents": [
+        "speech3.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 5,
+      "question": "What personal experiences with discrimination does the speaker describe?",
+      "ground_truth": "Not allowed to drink from public wells, not allowed to enter temples, forced to live outside the village.",
+      "source_documents": [
+        "speech4.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 6,
+      "question": "How did the speaker struggle to get education?",
+      "ground_truth": "Went to school sitting outside classroom, studied under street lights with limited resources, determined to overcome all obstacles.",
+      "source_documents": [
+        "speech4.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 7,
+      "question": "Compare the concept of the 'enemy' in the speeches about caste and untouchability.",
+      "ground_truth": "In caste discussion, the enemy is the belief in shastras. In untouchability context, the enemy is the caste system and social oppression.",
+      "source_documents": [
+        "speech1.txt",
+        "speech6.txt"
+      ],
+      "question_type": "comparative"
+    },
+    {
+      "id": 8,
+      "question": "What is the speaker's vision for a perfect society combining political and social concepts?",
+      "ground_truth": "A society based on liberty, equality, and fraternity with both political democracy and social democracy where minorities are protected.",
+      "source_documents": [
+        "speech1.txt",
+        "speech3.txt"
+      ],
+      "question_type": "conceptual"
+    },
+    {
+      "id": 9,
+      "question": "How does the speaker connect political power to social change for oppressed groups?",
+      "ground_truth": "Political power is essential for oppressed groups to protect their interests and achieve emancipation from social oppression.",
+      "source_documents": [
+        "speech3.txt",
+        "speech6.txt"
+      ],
+      "question_type": "comparative"
+    },
+    {
+      "id": 10,
+      "question": "What was the speaker's favorite food?",
+      "ground_truth": "This information is not available in the provided documents.",
+      "source_documents": [],
+      "question_type": "unanswerable"
+    },
+    {
+      "id": 11,
+      "question": "In what year was the speaker born?",
+      "ground_truth": "This information is not available in the provided documents.",
+      "source_documents": [],
+      "question_type": "unanswerable"
+    },
+    {
+      "id": 12,
+      "question": "What is the Dhamma that Buddha taught according to the speech?",
+      "ground_truth": "The Dhamma is to avoid evil, do good, and purify the mind. It is a code of moral conduct for society.",
+      "source_documents": [
+        "speech2.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 13,
+      "question": "What analogy does the speaker use to criticize social reform?",
+      "ground_truth": "Social reform is like a gardener pruning leaves and branches without attacking the roots - it does not solve the fundamental problem.",
+      "source_documents": [
+        "speech1.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 14,
+      "question": "What three principles define social democracy according to the speech?",
+      "ground_truth": "Liberty, equality, and fraternity are the three principles that define social democracy.",
+      "source_documents": [
+        "speech3.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 15,
+      "question": "What restrictions did untouchables face in the traditional system?",
+      "ground_truth": "Denied the right to drink from public wells, denied entry to temples, forced to live outside villages, condemned to do menial work.",
+      "source_documents": [
+        "speech4.txt",
+        "speech6.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 16,
+      "question": "What did Buddha reject according to his teachings?",
+      "ground_truth": "Buddha rejected the authority of the Vedas, denied the efficacy of prayers, discarded the usefulness of gods, and was against ritual sacrifices.",
+      "source_documents": [
+        "speech2.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 17,
+      "question": "What actions must the oppressed take for their emancipation?",
+      "ground_truth": "Organize themselves, educate their children, enter government services, use political power to protect their interests.",
+      "source_documents": [
+        "speech6.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 18,
+      "question": "How does the speaker's view of religion differ between different contexts?",
+      "ground_truth": "In one context, Buddha's Dhamma is praised as moral social code; in another, religion is seen as dividing people into separate nations.",
+      "source_documents": [
+        "speech2.txt",
+        "speech5.txt"
+      ],
+      "question_type": "comparative"
+    },
+    {
+      "id": 19,
+      "question": "Compare the status of untouchables with that of defeated peoples according to the speech.",
+      "ground_truth": "Untouchables are broken men who were original inhabitants defeated and subjugated, then forced into oppressive conditions.",
+      "source_documents": [
+        "speech6.txt"
+      ],
+      "question_type": "comparative"
+    },
+    {
+      "id": 20,
+      "question": "What is the relationship between education and liberation in the speaker's philosophy?",
+      "ground_truth": "Education is essential for both personal liberation from oppression and political empowerment for collective social change.",
+      "source_documents": [
+        "speech4.txt",
+        "speech6.txt"
+      ],
+      "question_type": "conceptual"
+    },
+    {
+      "id": 21,
+      "question": "How many children did the speaker have?",
+      "ground_truth": "This information is not available in the provided documents.",
+      "source_documents": [],
+      "question_type": "unanswerable"
+    },
+    {
+      "id": 22,
+      "question": "What specific restrictions did untouchables face in religious spaces?",
+      "ground_truth": "They were not allowed to enter temples and worship alongside others in religious spaces.",
+      "source_documents": [
+        "speech4.txt",
+        "speech6.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 23,
+      "question": "What does the constitution represent according to the speech?",
+      "ground_truth": "The constitution is not merely a legal document but a vehicle of life whose spirit must reflect the times and provide both political and social democracy.",
+      "source_documents": [
+        "speech3.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 24,
+      "question": "What must happen for the practice of caste to end according to the speech?",
+      "ground_truth": "Either people must stop practicing caste or stop believing in the shastras - you cannot have both.",
+      "source_documents": [
+        "speech1.txt"
+      ],
+      "question_type": "factual"
+    },
+    {
+      "id": 25,
+      "question": "What is the root cause of the Hindu-Muslim problem according to the text?",
+      "ground_truth": "Fundamentally a problem of nationalities where Hindus and Muslims are two separate nations with different religions, cultures, and historical backgrounds.",
+      "source_documents": [
+        "speech5.txt"
+      ],
+      "question_type": "factual"
+    }
+  ]
+}
