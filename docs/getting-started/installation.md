@@ -73,4 +73,4 @@ python main.py
    - Verify the model name in the configuration
    - Ensure you've pulled the model with Ollama
 
-For additional help, please refer to the [FAQ](../faq.md) or open an issue on GitHub.
+For additional help, please open an issue on our [GitHub repository](https://github.com/pranav271103/AmbedkarGPT-Intern-Task/issues).

@@ -1,6 +1,6 @@
 # Welcome to AmbedkarGPT
 
-![AmbedkarGPT Logo](assets/logo.png)
+![AmbedkarGPT Logo](assets/Logo.png)
 
 ## A Privacy-First RAG System for Dr. Ambedkar's Works
 

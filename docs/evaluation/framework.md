@@ -78,9 +78,8 @@ class EvaluationConfig:
 
 ## Best Practices
 
-1. **Test on Diverse Queries**: Include various question types
-2. **Balance the Dataset**: Include both simple and complex queries
-3. **Monitor Performance**: Track metrics over time
-4. **Compare Strategies**: Test different configurations
-
-For detailed metric definitions, see the [Metrics Documentation](./metrics.md).
+1. **Test on Diverse Queries**: Include various question types to ensure comprehensive evaluation.
+2. **Balance the Dataset**: Include both simple and complex queries for a thorough assessment.
+3. **Monitor Performance**: Track metrics over time to identify trends and areas for improvement.
+4. **Compare Strategies**: Test different retrieval and generation configurations to optimize performance.
+5. **Document Findings**: Keep detailed records of evaluation results and any changes made to the system.
